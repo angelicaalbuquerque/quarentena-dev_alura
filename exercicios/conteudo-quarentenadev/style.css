@@ -1,0 +1,14 @@
+* {
+  font-family: monospace;
+  color: limegreen;
+  background-color: rgb(37, 36, 36);
+}
+
+img {
+  max-width: 300px;
+  border: 10px solid limegreen;
+}
+
+ul {
+  list-style: square;
+}
